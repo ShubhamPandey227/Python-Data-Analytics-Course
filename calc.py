@@ -1,3 +1,4 @@
+#using if elif
 import os 
 while True :
     print ("Select a number : ")
